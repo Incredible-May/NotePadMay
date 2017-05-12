@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+
+    <!-- 状态栏的样式 -->
+    <!--  -->
+    <style name="MyTheme" parent="@android:style/Theme.Holo.Light">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="TextAppearance.FontPath" parent="android:TextAppearance">
+        <!-- Custom Attr-->
+        <item name="fontPath">fonts/simhei.ttf</item>
+    </style>
+
+</resources>
