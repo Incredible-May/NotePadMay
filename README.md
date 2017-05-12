@@ -95,6 +95,7 @@ NoteEditor.updateNote()函数中修改</br>
 ![image](https://github.com/Incredible-May/NotePadMay/blob/master/image/%E6%90%9C%E7%B4%A2%E7%BB%93%E6%9E%9C.png)
 ### 2>扩展功能
 #### 1.改变背景色
+点击屏幕下方按钮：点开有惊喜！
 ![image](https://github.com/Incredible-May/NotePadMay/blob/master/image/%E9%80%89%E6%8B%A9%E8%83%8C%E6%99%AF%E8%89%B2.png)
 #### 2.改变后的界面
 ![image](https://github.com/Incredible-May/NotePadMay/blob/master/image/%E6%94%B9%E5%8F%98%E8%83%8C%E6%99%AF%E8%89%B2.png)
