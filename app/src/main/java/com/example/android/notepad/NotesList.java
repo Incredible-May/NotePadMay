@@ -211,10 +211,13 @@ public class NotesList extends ListActivity {
                 Color.parseColor("#fcf9a4"),//黄
                 Color.parseColor("#abed65"),//绿
                 Color.parseColor("#33a9e1"),//蓝
+                Color.parseColor("#070707"),//黑
+                Color.parseColor("#1cdaef"),//蓝绿
+                Color.parseColor("#fa77ab"),//粉色
         };
-        for (int i=0;i<4;i++){
+        for (int i=0;i<7;i++){
             ImageView imageView=new ImageView(NotesList.this);
-            imageView.setLayoutParams(new LinearLayout.LayoutParams(150,150));
+            imageView.setLayoutParams(new LinearLayout.LayoutParams(90,120));
             imageView.setBackgroundColor(colorArray[i]);
             final int finalI = i;
             imageView.setOnClickListener(new View.OnClickListener() {
