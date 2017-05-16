@@ -85,15 +85,15 @@ NoteEditor.updateNote()函数中修改</br>
 #### 1.notepad的主界面</br>
 <img width="500" height="750" src="https://github.com/Incredible-May/NotePadMay/blob/master/image/notepad%E4%B8%BB%E7%95%8C%E9%9D%A2.png"/>
 </br>
-#### 2.添加便签
+#### 2.添加便签</br>
 <img width="500" height="750" src="https://github.com/Incredible-May/NotePadMay/blob/master/image/%E6%B7%BB%E5%8A%A0%E4%BE%BF%E7%AD%BE.png"/>
-#### 3.添加便签后的界面
+#### 3.添加便签后的界面</br>
 <img width="500" height="750" src="https://github.com/Incredible-May/NotePadMay/blob/master/image/%E6%B7%BB%E5%8A%A0%E5%90%8E%E7%9A%84%E7%95%8C%E9%9D%A2.png"/>
-#### 4.点击搜索
+#### 4.点击搜索</br>
 <img width="500" height="750" src="https://github.com/Incredible-May/NotePadMay/blob/master/image/%E7%82%B9%E5%87%BB%E6%90%9C%E7%B4%A2.png"/>
-#### 5.搜索结果
+#### 5.搜索结果</br>
 <img width="500" height="750" src="https://github.com/Incredible-May/NotePadMay/blob/master/image/%E6%90%9C%E7%B4%A2%E7%BB%93%E6%9E%9C.png"/>
-###  2>扩展功能</br>
+### 2>扩展功能</br>
 #### 1.改变背景色</br>
 点击屏幕下方按钮：点开有惊喜！
 <img width="500" height="750" src="https://github.com/Incredible-May/NotePadMay/blob/master/image/%E9%80%89%E6%8B%A9%E8%83%8C%E6%99%AF%E8%89%B2.png"/>
